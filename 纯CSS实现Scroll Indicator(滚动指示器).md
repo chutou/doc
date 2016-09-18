@@ -113,4 +113,4 @@ body:before {
 
 这篇文章主要通过CSS的几个属性的结合来模拟Scroll Indicator的一个效果。主要通过CSS的[`linear-gradient`](http://www.w3cplus.com/content/css3-gradient)配合[`background-size`](http://www.w3cplus.com/content/css3-background-size)的属性模拟进度条的效果，模拟这个效果还需要借助CSS的视窗单位[`vh`](http://www.w3cplus.com/blog/tags/485.html)和[`calc()`](http://www.w3cplus.com/css3/how-to-use-css3-calc-function.html)得到滚动条位置。
 
-如果你有更好的方案，欢迎在下面的评论中一起分享。
+如果你有更好的方案，欢迎在下面的评论中一起分享。bdwg
